@@ -29,7 +29,7 @@
 ## 🧑‍💻 **About Me**  
 <div align="center">
 
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=90&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=50&lines=Hi+👋,+I'm+Sudeep+Mondal+Deep!;CSE+Student+|+AI+&+Data+Science+Enthusiast;Researcher+in+Data+Mining+&+Warehousing;Software+Developer+|+Technology+Explorer;Passionate+about+Real-world+Problem+Solving!+🚀)  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=200&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=50&lines=Hi+👋,+I'm+Sudeep+Mondal+Deep!;CSE+Student+|+AI+&+Data+Science+Enthusiast;Researcher+in+Data+Mining+&+Warehousing;Software+Developer+|+Technology+Explorer;Passionate+about+Real-world+Problem+Solving!+🚀)  
 
   <p align="justify">
 I am a Computer Science and Engineering (CSE) student with a strong passion for AI, Data Science and . My research focuses on <b>xyz</b>, where I explore new methodologies to extract valuable insights from data. Apart from academics, I actively participate in competitions, always striving to enhance my skills and knowledge. I love to explore new technologies, solve real-world problems, and contribute to innovative projects. My goal is to bridge the gap between technology and societal needs through <b>research and development.</b>  
