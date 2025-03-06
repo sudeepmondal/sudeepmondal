@@ -1,16 +1,9 @@
-<div align="center">
+
 ## 📱 Scan to Visit My Profile  
-</div>
+
 
 ![Animated Text](https://readme-typing-svg.herokuapp.com?size=24&duration=2&color=ff0000&center=true&vCenter=true&multiline=true&width=500&height=50&lines=Welcome+to+My+GitHub!;) 
 <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/sudeepmondal" alt="QR Code">
-
----
-
-## 📱 Scan to Visit My Profile  
-<div align="center">
-  <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/sudeepmondal" alt="QR Code">
-</div>
 
 ---
 
@@ -26,15 +19,10 @@
 
 ---
 
-## 🌊 **Wavy Contribution Graph**  
-![Wavy Contribution](https://github.com/sudeepmondal/sudeepmondal/blob/output/wavy.svg)
-
----
-
 ## 🚀 **Tech Stack**  
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
+
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
 ![.NET](https://img.shields.io/badge/-.NET-5C2D91?style=flat&logo=dotnet&logoColor=white)  
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)  
