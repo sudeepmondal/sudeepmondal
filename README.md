@@ -1,5 +1,5 @@
 <div align="center">
-  
+
 ![Animated Text](https://readme-typing-svg.herokuapp.com?size=24&duration=1&color=ff0000&center=true&vCenter=true&multiline=true&width=500&height=50&lines=Welcome+to+My+GitHub!;)
 
 <table width="100%">
@@ -9,6 +9,10 @@
     </td>
   </tr>
 </table>
+
+
+  
+<table width="100%">
   <!-- Left Side: Connect With Me -->
   <tr>
     <td align="center">
@@ -33,7 +37,6 @@
   </td>
   </tr>
 </table>
-</div>
 
 ---
 
