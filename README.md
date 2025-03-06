@@ -1,4 +1,4 @@
-### Hi there, I'm Sudeep Mondal Deep! 👋
+###[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Hi h🥂+ I'm Sudeep+Mondal+Deep)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sudeepmondal&color=blue)
 
