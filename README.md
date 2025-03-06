@@ -1,8 +1,14 @@
 <div align="center">
   
-  ![Animated Text](https://readme-typing-svg.herokuapp.com?size=24&duration=1&color=ff0000&center=true&vCenter=true&multiline=true&width=500&height=50&lines=Welcome+to+My+GitHub!;)  
+![Animated Text](https://readme-typing-svg.herokuapp.com?size=24&duration=1&color=ff0000&center=true&vCenter=true&multiline=true&width=500&height=50&lines=Welcome+to+My+GitHub!;)
+
 <table width="100%">
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=50&lines=Hi+👋,+I'm+Sudeep+Mondal+Deep!;CSE+Student+|+AI+&+Data+Science+Enthusiast;Researcher+in+Data+Mining+&+Warehousing;Software+Developer+|+Technology+Explorer;Passionate+about+Real-world+Problem+Solving!+🚀)  
+  <tr>
+    <td align="center">
+      ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=50&lines=Hi+👋,+I'm+Sudeep+Mondal+Deep!;CSE+Student+|+AI+&+Data+Science+Enthusiast;Researcher+in+Data+Mining+&+Warehousing;Software+Developer+|+Technology+Explorer;Passionate+about+Real-world+Problem+Solving!+🚀)
+    </td>
+  </tr>
+</table>
   <!-- Left Side: Connect With Me -->
   <tr>
     <td align="center">
