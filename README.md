@@ -1,4 +1,30 @@
 <div align="center">
+  
+  ![Animated Text](https://readme-typing-svg.herokuapp.com?size=24&duration=2&color=ff0000&center=true&vCenter=true&multiline=true&width=500&height=50&lines=Welcome+to+My+GitHub!;)  
+
+  <table>
+    <tr>
+      <!-- Left Side: Connect With Me -->
+      <td align="center">
+        <h2>🤝 Connect With Me</h2>
+        <a href="https://www.linkedin.com/in/smdeep/">
+          <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+        </a>
+        <br>
+        <a href="mailto:smdeep137@gmail.com">
+          <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
+        </a>
+      </td>
+      <!-- Right Side: Scan to Visit My Profile -->
+      <td align="center">
+        <h2>📱 Scan to Visit My Profile</h2>
+        <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/sudeepmondal" alt="QR Code" width="150">
+      </td>
+    </tr>
+  </table>
+
+</div>
+<div align="center">
 
   ![Animated Text](https://readme-typing-svg.herokuapp.com?size=24&duration=2&color=ff0000&center=true&vCenter=true&multiline=true&width=500&height=50&lines=Welcome+to+My+GitHub!;)  
 
