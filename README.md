@@ -1,4 +1,4 @@
-![Animated Text](https://readme-typing-svg.herokuapp.com?size=24&duration=30000&color=ff0000&center=true&vCenter=true&multiline=true&width=500&height=50&lines=Welcome+to+My+GitHub;)
+![Animated Text](https://readme-typing-svg.herokuapp.com?size=24&duration=300&color=ff0000&center=true&vCenter=true&multiline=true&width=500&height=50&lines=Welcome+to+My+GitHub;)
 
 ## 📱 Scan to Visit My Profile  
 <div align="right">
