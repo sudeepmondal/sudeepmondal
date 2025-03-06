@@ -1,16 +1,21 @@
-### Hi there, I'm Sudeep Mondal Deep! 👋
+### Hi there, I'm Sudeep Mondal Deep! 👋  
 
-![Profile Views](https://komarev.com/ghpvc/?username=sudeepmondal&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=sudeepmondal&color=blue)  
 
 ---
 
 ## 🚀 About Me  
 🎓 **CSE Student** | Passionate about **AI, Data Science, Data Mining & Software Development**  
-🏆 **Competitor** at **Data Visionary: National Data Analytics Competition - 2025**  
+🏆 **Competitor** at ****  
 🖥️ Working on **Humanity Assistance Platform** (C# & .NET)  
 📚 Researching **Data Mining & Warehousing**  
-🤖 Exploring **AI-Driven Cloud Security & Robotics**  
-🔍 Interested in **Machine Learning & Research on EEG-based Analysis**  
+🤖 Exploring ****  
+🔍 Interested in **Research**  
+
+---
+
+## 👨‍💻 Typing Effect Bio  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&lines=CSE+Student;AI+%26+Data+Science+Enthusiast;Software+Developer)](https://git.io/typing-svg)  
 
 ---
 
@@ -18,10 +23,8 @@
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
-![.NET](https://img.shields.io/badge/-.NET-5C2D91?style=flat&logo=dotnet&logoColor=white)  
+![.NET](https://img.shields.io/badge/-DotNet-5C2D91?style=flat&logo=dotnet&logoColor=white)  
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)  
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)  
 
 ---
@@ -33,13 +36,28 @@
 
 ---
 
-## 🔥 Contribution Streak  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sudeepmondal&theme=radical)
+## 🌊 Wavy Contribution Graph  
+![Wavy Contribution](https://github.com/sudeepmondal/sudeepmondal/blob/output/github-contribution-wave.svg)  
 
 ---
 
-## 🐍 Contribution Snake  
-![Contribution Snake](https://github.com/sudeepmondal/sudeepmondal/blob/main/github-contribution-grid-snake-dark.svg)
+## 🌆 GitHub Skyline (3D Contribution Graph)  
+[![Skyline](https://skyline.github.com/sudeepmondal/2024)](https://skyline.github.com/sudeepmondal/2024)  
+
+---
+
+## 🖥️ Terminal GitHub Stats  
+![Terminal Stats](https://github-readme-stats.vercel.app/api?username=sudeepmondal&show_icons=true&theme=radical&hide_border=true&bg_color=000000&text_color=00FF00)  
+
+---
+
+## 🎧 Now Playing on Spotify  
+[![Spotify](https://novatorem-username.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-username)  
+
+---
+
+## 📱 Scan to Visit Profile  
+![QR Code](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/sudeepmondal)  
 
 ---
 
