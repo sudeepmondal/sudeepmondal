@@ -21,26 +21,20 @@
 
 ## 🚀 **Tech Stack**  
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
-
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
-![.NET](https://img.shields.io/badge/-.NET-5C2D91?style=flat&logo=dotnet&logoColor=white)  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)  
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  ![.NET](https://img.shields.io/badge/-.NET-5C2D91?style=flat&logo=dotnet&logoColor=white)  ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)  ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)   ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
 
 ---
 
-## 📊 **GitHub Stats**  
+## 📊 **GitHub Stats & Contribution Streak**  
 
-![Deep's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudeepmondal&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudeepmondal&layout=compact&theme=radical)  
-
----
-
-## 🔥 **Contribution Streak**  
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=sudeepmondal&theme=radical)  
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=sudeepmondal&show_icons=true&theme=radical" alt="Deep's GitHub Stats"></td>
+      <td><img src="https://streak-stats.demolab.com/?user=sudeepmondal&theme=radical" alt="GitHub Streak"></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
