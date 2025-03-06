@@ -1,5 +1,6 @@
 <!-- Typing Animation -->
-[![Animated Text](https://readme-typing-svg.herokuapp.com?size=25&color=00FF00&center=true&vCenter=true&width=800&lines=Welcome+to+My+GitHub+Profile!;)](https://git.io/typing-svg)
+![Animated Text](https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=ff0000&center=true&vCenter=true&multiline=true&width=500&height=50&lines=Welcome+to+My+GitHub;Explore+My+Projects)
+
 
 ## 📱 Scan to Visit My Profile  
 <div align="right">
