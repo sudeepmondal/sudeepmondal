@@ -5,12 +5,12 @@
 ---
 
 ## 🚀 About Me  
-🎓 **CSE Student** | Passionate about **AI, Data Science & Software Development**  
-🏆 **Competitor** at **Data Visionary: National Data Analytics Competition - 2025**  
+🎓 **CSE Student** | Passionate about **AI, Data Science, Data Mining,  & Software Development**  
+🏆 **Competitor** at ****  
 🖥️ Working on **Humanity Assistance Platform** (C# & .NET)  
 📚 Researching **Data Mining & Warehousing**  
-🤖 Exploring **AI-driven cloud security automation & robotics**  
-🔍 Interested in **Dementia-related HCI & EEG-based research**  
+🤖 Exploring ****  
+🔍 Interested in **Research**  
 
 ---
 
@@ -26,20 +26,20 @@
 
 ## 📊 GitHub Stats  
 
-![Deep's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeepMondal&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepMondal&layout=compact&theme=radical)  
+![Deep's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudeepmondal&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudeepmondal&layout=compact&theme=radical)  
 
 ---
 
 ## 🔥 Contribution Streak  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DeepMondal&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sudeepmondal&theme=radical)  
 
 ---
 
 ## 🐍 Contribution Snake  
 
-![Contribution Snake](https://raw.githubusercontent.com/DeepMondal/DeepMondal/output/github-contribution-grid-snake.svg)
+![Contribution Snake](https://raw.githubusercontent.com/sudeepmondal/sudeepmondal/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -47,3 +47,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smdeep/)  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](smdeep137@gmail.com)  
+
+---
+
+### 🎉 Thanks for Visiting! Happy Coding! 🚀
