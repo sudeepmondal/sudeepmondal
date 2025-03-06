@@ -8,7 +8,7 @@
 ---
 
 ## 👨‍💻 About Me  
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&lines=CSE+Student;AI+%26+Data+Science+Enthusiast;Software+Developer)](https://git.io/typing-svg)
 
 ---
 
