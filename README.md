@@ -1,39 +1,33 @@
-###[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Hi h🥂+ I'm Sudeep+Mondal+Deep)](https://git.io/typing-svg)
-
-![Profile Views](https://komarev.com/ghpvc/?username=sudeepmondal&color=blue)
-
-## 📱 Scan to Visit Profile  
-![QR Code](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/sudeepmondal)  
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00FF00&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Sudeep+Mondal+Deep!;Welcome+to+My+GitHub+Profile!;AI+%7C+Data+Science+%7C+Software+Development;Researcher+in+Data+Mining+%26+Warehousing)](https://git.io/typing-svg)
 
 ---
 
-## 👨‍💻 About Me  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&lines=CSE+Student;AI+%26+Data+Science+Enthusiast;Software+Developer)](https://git.io/typing-svg)
+## 📱 Scan to Visit My Profile  
+<div align="center">
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/sudeepmondal" alt="QR Code">
+</div>
 
 ---
 
-
-## 🐍 Contribution Snake  
-
-![Contribution Snake](https://github.com/sudeepmondal/sudeepmondal/blob/main/github-contribution-grid-snake-dark.svg?short_path=2a4c5e6)
-
-
----
-## 🚀 About Me  
-🎓 **CSE Student** | Passionate about **AI, Data Science, Data Mining & Software Development**  
-🏆 **Competitor** at **Data Visionary: National Data Analytics Competition - 2025**  
-🖥️ Working on **Humanity Assistance Platform** (C# & .NET)  
-📚 Researching **Data Mining & Warehousing**  
-🤖 Exploring **AI-Driven Cloud Security & Robotics**  
-🔍 Interested in **Machine Learning & Research on EEG-based Analysis**  
+## 🧑‍💻 **About Me**  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=800&lines=CSE+Student;AI+%26+Data+Science+Enthusiast;Software+Developer;Competitor+at+Data+Visionary+2025;Researcher+in+Data+Mining+%26+Warehousing;Exploring+AI-Driven+Cloud+Security+%26+Robotics">
+</p>
 
 ---
 
-## 🌊 Wavy Contribution Graph  
+## 🐍 **Contribution Snake**  
+![Contribution Snake](https://github.com/sudeepmondal/sudeepmondal/blob/main/github-contribution-grid-snake-dark.svg)
+
+---
+
+## 🌊 **Wavy Contribution Graph**  
 ![Wavy Contribution](https://github.com/sudeepmondal/sudeepmondal/blob/output/wavy.svg)
 
+---
 
-## 🛠️ Tech Stack  
+## 🚀 **Tech Stack**  
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
@@ -45,25 +39,24 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 **GitHub Stats**  
 
 ![Deep's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudeepmondal&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudeepmondal&layout=compact&theme=radical)  
 
 ---
 
-## 🔥 Contribution Streak  
+## 🔥 **Contribution Streak**  
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=sudeepmondal&theme=radical)  
 
 ---
 
-
-## 🤝 Connect With Me  
+## 🤝 **Connect With Me**  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smdeep/)  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:smdeep137@gmail.com)  
 
 ---
 
-### 🎉 Thanks for Visiting! Happy Coding! 🚀
+### 🎉 **Thanks for Visiting! Happy Coding! 🚀**
