@@ -1,22 +1,4 @@
-<h1 align="center">
-  <span class="highlight">Welcome to My GitHub</span>
-</h1>
-
-<style>
-@keyframes colorChange {
-  0% { color: red; }
-  25% { color: blue; }
-  50% { color: green; }
-  75% { color: purple; }
-  100% { color: red; }
-}
-
-.highlight {
-  animation: colorChange 3s infinite alternate;
-  font-weight: bold;
-}
-</style>
-
+![Animated Text](https://readme-typing-svg.herokuapp.com?size=24&duration=30000&color=ff0000&center=true&vCenter=true&multiline=true&width=500&height=50&lines=Welcome+to+My+GitHub;)
 
 ## 📱 Scan to Visit My Profile  
 <div align="right">
