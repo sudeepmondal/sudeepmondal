@@ -23,15 +23,23 @@
     </tr>
   </table>
 </div>
+
 ---
 
 ## 🧑‍💻 **About Me**  
+<div align="center">
 
-Hi 👋, I'm **Sudeep Mondal Deep!** I am a Computer Science and Engineering (CSE) student with a strong passion for **AI, Data Science, and Software Development**. My research focuses on **Data Mining & Warehousing**, where I explore new methodologies to extract valuable insights from data.  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=2000&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=50&lines=Hi+👋,+I'm+Sudeep+Mondal+Deep!;CSE+Student+|+AI+&+Data+Science+Enthusiast;Researcher+in+Data+Mining+&+Warehousing;Software+Developer+|+Technology+Explorer;Passionate+about+Real-world+Problem+Solving!+🚀)  
 
-Currently, I am working on the **Humanity Assistance Platform** using **C# and .NET**, aiming to build a meaningful impact through technology. Apart from academics, I actively participate in competitions, I always striving to enhance my skills and knowledge.  
+  <p align="justify">
+    I'm <b>Sudeep Mondal Deep!</b> I am a Computer Science and Engineering (CSE) student with a strong passion for AI, Data Science, and Software Development. 
+    My research focuses on <b>Data Mining & Warehousing</b>, where I explore new methodologies to extract valuable insights from data.  
+    Apart from academics, I actively participate in competitions, always striving to enhance my skills and knowledge.  
+    I love to explore new technologies, solve real-world problems, and contribute to innovative projects.  
+    My goal is to bridge the gap between technology and societal needs through <b>research and development.</b>  
+  </p>
 
-I love to explore new technologies, solve real-world problems, and contribute to innovative projects. My goal is to bridge the gap between technology and societal needs through research and development.
+</div>
 
 ---
 
