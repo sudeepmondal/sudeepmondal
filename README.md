@@ -39,11 +39,11 @@
 
 ## 🐍 Contribution Snake  
 
-![Contribution Snake](https://github.com/DeepMondal/DeepMondal/blob/output/github-contribution-grid-snake.svg)  
+![Contribution Snake](https://raw.githubusercontent.com/DeepMondal/DeepMondal/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 🤝 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deep-mondal)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smdeep/)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](smdeep137@gmail.com)  
