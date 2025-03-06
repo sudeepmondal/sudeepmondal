@@ -23,12 +23,15 @@
     </tr>
   </table>
 </div>
-
+---
 
 ## 🧑‍💻 **About Me**  
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Sudeep+Mondal+Deep!;CSE+Student;Researcher+in+Data+Mining+%26+WarehousingAI+%26+Data+Science+Enthusiast;Software+Developer;;Exploring">
-</p>
+
+Hi 👋, I'm **Sudeep Mondal Deep!** I am a Computer Science and Engineering (CSE) student with a strong passion for **AI, Data Science, and Software Development**. My research focuses on **Data Mining & Warehousing**, where I explore new methodologies to extract valuable insights from data.  
+
+Currently, I am working on the **Humanity Assistance Platform** using **C# and .NET**, aiming to build a meaningful impact through technology. Apart from academics, I actively participate in competitions, I always striving to enhance my skills and knowledge.  
+
+I love to explore new technologies, solve real-world problems, and contribute to innovative projects. My goal is to bridge the gap between technology and societal needs through research and development.
 
 ---
 
