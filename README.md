@@ -1,4 +1,4 @@
-### Hi there, I'm Deep! 👋
+### Hi there, I'm Sudeep Mondal Deep! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DeepMondal&color=blue)
 
