@@ -1,6 +1,11 @@
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00FF00&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Sudeep+Mondal+Deep!;Welcome+to+My+GitHub+Profile!;AI+%7C+Data+Science+%7C+Software+Development;Researcher+in+Data+Mining+%26+Warehousing)](https://git.io/typing-svg)
 
+## 📱 Scan to Visit My Profile  
+<div align="right">
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/sudeepmondal" alt="QR Code">
+</div>
+
 ---
 
 ## 📱 Scan to Visit My Profile  
@@ -12,7 +17,7 @@
 
 ## 🧑‍💻 **About Me**  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=800&lines=CSE+Student;AI+%26+Data+Science+Enthusiast;Software+Developer;Competitor+at+Data+Visionary+2025;Researcher+in+Data+Mining+%26+Warehousing;Exploring+AI-Driven+Cloud+Security+%26+Robotics">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Sudeep+Mondal+Deep!;CSE+Student;Researcher+in+Data+Mining+%26+WarehousingAI+%26+Data+Science+Enthusiast;Software+Developer;;Exploring">
 </p>
 
 ---
