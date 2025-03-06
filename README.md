@@ -1,5 +1,5 @@
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00FF00&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Sudeep+Mondal+Deep!;Welcome+to+My+GitHub+Profile!;AI+%7C+Data+Science+%7C+Software+Development;Researcher+in+Data+Mining+%26+Warehousing)](https://git.io/typing-svg)
+[![Animated Text](https://readme-typing-svg.herokuapp.com?size=25&color=00FF00&center=true&vCenter=true&width=800&lines=Welcome+to+My+GitHub+Profile!;)](https://git.io/typing-svg)
 
 ## 📱 Scan to Visit My Profile  
 <div align="right">
