@@ -34,11 +34,10 @@
 ---
 
 ## 🔥 Contribution Streak  
-![GitHub Streak](https://streak-stats.demolab.com/?user=sudeepmondal&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sudeepmondal&theme=radical)
 
 ---
 
-## 🐍 Contribution Snake  
 
 ## 🐍 Contribution Snake  
 ![Contribution Snake](https://raw.githubusercontent.com/sudeepmondal/sudeepmondal/output/github-contribution-grid-snake.svg)
