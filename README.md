@@ -2,12 +2,21 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sudeepmondal&color=blue)
 
+## 📱 Scan to Visit Profile  
+![QR Code](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/sudeepmondal)  
+
+---
+
+## 👨‍💻 About Me  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&lines=CSE+Student;AI+%26+Data+Science+Enthusiast;Software+Developer)](https://git.io/typing-svg)
+
 ---
 
 
 ## 🐍 Contribution Snake  
 
 ![Contribution Snake](https://github.com/sudeepmondal/sudeepmondal/blob/main/github-contribution-grid-snake-dark.svg?short_path=2a4c5e6)
+
 
 ---
 ## 🚀 About Me  
