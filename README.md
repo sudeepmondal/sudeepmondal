@@ -1,4 +1,4 @@
-![Search Bar Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&color=4d4d4d&vCenter=true&width=700&height=50&lines=%7C+Search+%22Sudeep+Mondal%22+Here%7C)
+![Search Bar Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&color=4d4d4d&vCenter=true&width=700&height=50&lines=%F0%9F%93%9C+Search+for+%22Sudeep+Mondal%22+...)
 
 
 <div align="center">
