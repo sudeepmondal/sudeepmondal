@@ -6,24 +6,22 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
-    name: Generate Snake
+  generate:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout Repo
+      - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Generate Snake Animation
+      - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: sudeepmondal
           outputs: |
-            github-contribution-grid-snake.svg
-            github-contribution-grid-snake-dark.svg?palette=FF0000,000000
-          
-      - name: Push Generated Snake
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push Changes
         uses: EndBug/add-and-commit@v9
         with:
-          message: "Updated Contribution Snake"
-          add: "github-contribution-grid-snake.svg github-contribution-grid-snake-dark.svg"
+          message: "Update Contribution Snake"
+          add: "dist/*.svg"
