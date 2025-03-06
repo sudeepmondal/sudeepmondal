@@ -1,22 +1,22 @@
 <div align="center">
-
 <!-- Typing Animation at the Top -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=1&color=FF0000&center=true&vCenter=true&multiline=true&width=500&height=50&lines=Welcome+to+My+GitHub!" />
 </p>
-
 <!-- Another Typing Animation Below -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=50&lines=Hi+👋,+I'm+Sudeep+Mondal+Deep!;CSE+Student+|+AI+&+Data+Science+Enthusiast;Researcher+in+Data+Mining+&+Warehousing;Software+Developer+|+Technology+Explorer;Passionate+about+Real-world+Problem+Solving!+🚀" />
 </p>
-
-
   
 <table width="100%">
   <!-- Left Side: Connect With Me -->
   <tr>
     <td align="center">
       <h2>🤝 Connect With Me</h2>
+      <a href="https://www.facebook.com/sudeepmondaldeep/)">
+        <img src="https://img.shields.io/badge/-Facebook-0077B5?style=flat&logo=Facebook&logoColor=white" alt="Facebook">
+      </a>
+      <br>
       <a href="https://www.linkedin.com/in/smdeep/">
         <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
       </a>
