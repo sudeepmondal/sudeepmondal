@@ -4,6 +4,12 @@
 
 ---
 
+
+## 🐍 Contribution Snake  
+
+![Contribution Snake](https://github.com/sudeepmondal/sudeepmondal/blob/main/github-contribution-grid-snake-dark.svg?short_path=2a4c5e6)
+
+---
 ## 🚀 About Me  
 🎓 **CSE Student** | Passionate about **AI, Data Science, Data Mining & Software Development**  
 🏆 **Competitor** at **Data Visionary: National Data Analytics Competition - 2025**  
@@ -43,11 +49,6 @@
 
 ---
 
-## 🐍 Contribution Snake  
-
-![Contribution Snake](https://github.com/sudeepmondal/sudeepmondal/blob/main/github-contribution-grid-snake-dark.svg?short_path=2a4c5e6)
-
----
 
 ## 🤝 Connect With Me  
 
