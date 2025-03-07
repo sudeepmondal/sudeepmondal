@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=50&lines=Hi+👋,+I'm+Sudeep+Mondal+Deep!;" />
 </p>
   
-<table width="100%">
+<table width="200%">
   <!-- Left Side: Connect With Me -->
   <tr>
     <td align="center">
