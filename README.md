@@ -21,7 +21,7 @@
         <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
       </a>
       <br>
-      <a href="https://www.facebook.com/sudeepmondaldeep/)">
+      <a href="https://www.facebook.com/sudeepmondaldeep/">
         <img src="https://img.shields.io/badge/-Facebook-0077B5?style=flat&logo=Facebook&logoColor=white" alt="Facebook">
       </a>
     </td>
