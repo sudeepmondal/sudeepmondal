@@ -26,7 +26,7 @@
       </a>
     </td>
   <!-- Centered Contribution Snake -->
-  <td align="center" colspan="2">
+  <td align="center" colspan="1">
     <h2>🐍 **Contribution Snake**</h2>
     <img src="https://github.com/sudeepmondal/sudeepmondal/blob/main/github-contribution-grid-snake-dark.svg" alt="Contribution Snake">
   </td>
