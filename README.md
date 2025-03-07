@@ -38,12 +38,14 @@
   </tr:hover {background-color: coral;}>
 </table>
 ---
+
 ## 🧑‍💻 **About Me**  
 
   <p align="justify">
 I am a Computer Science and Engineering (CSE) student with a strong passion for AI, Data Science and . My research focuses on <b>xyz</b>, where I explore new methodologies to extract valuable insights from data. Apart from academics, I actively participate in competitions, always striving to enhance my skills and knowledge. I love to explore new technologies, solve real-world problems, and contribute to innovative projects. My goal is to bridge the gap between technology and societal needs through <b>research and development.</b>  
   </p>
 ---
+
 ## 🛠️ **Tech Stack & Skills**  
 
 | **Technical Skills** | **Programming Languages** | **Tools & Platforms** |
@@ -61,4 +63,5 @@ I am a Computer Science and Engineering (CSE) student with a strong passion for 
   </table>
 </div>
 ---
+
 ### 🎉 **Thanks for Visiting ! Happy Coding ! 🚀**
