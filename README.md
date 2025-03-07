@@ -5,7 +5,7 @@
 </p>
 <!-- Another Typing Animation Below -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=50&lines=👋+Hi,+I'm+Sudeep+Mondal+Deep+!;" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=1500&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=50&lines=👋+Hi,+I'm+Sudeep+Mondal+Deep+!;" />
 </p>
   
 <table width="200%">
@@ -26,8 +26,8 @@
       </a>
     </td>
   <!-- Centered Contribution Snake -->
-  <td align="center" colspan="1">
-    <h2>🐍 **Contribution Snake**</h2>
+  <td align="upper" colspan="1">
+    <h2>🐍 Contribution Snake </h2>
     <img src="https://github.com/sudeepmondal/sudeepmondal/blob/main/dist/github-contribution-grid-snake-dark.svg">
   </td>
   <!-- Right Side: Scan to Visit My Profile -->
