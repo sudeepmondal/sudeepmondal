@@ -11,7 +11,7 @@
 <table width="200%">
   <!-- Left Side: Connect With Me -->
   <tr>
-    <td align="center">
+    <td align="left">
       <h2>🤝 Connect With Me</h2>    
       <a href="https://www.linkedin.com/in/smdeep/">
         <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -26,7 +26,7 @@
       </a>
     </td>
   <!-- Centered Contribution Snake -->
-  <td align="top" colspan="1">
+  <td align="center" colspan="1">
     <h2>🐍 Contribution Snake </h2>
     <img src="https://github.com/sudeepmondal/sudeepmondal/blob/main/dist/github-contribution-grid-snake-dark.svg">
   </td>
