@@ -10,8 +10,9 @@
   
 <table width="200%">
   <!-- Left Side: Connect With Me -->
+  tr:hover {background-color: coral;}
   <tr>
-    <td align="left">
+    <td align="center">
       <h2>🤝 Connect With Me</h2>    
       <a href="https://www.linkedin.com/in/smdeep/">
         <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
