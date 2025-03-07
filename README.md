@@ -10,8 +10,7 @@
   
 <table width="200%">
   <!-- Left Side: Connect With Me -->
-  tr:hover {background-color: coral;}
-  <tr>
+  <tr:hover {background-color: coral;}>
     <td align="center">
       <h2>🤝 Connect With Me</h2>    
       <a href="https://www.linkedin.com/in/smdeep/">
