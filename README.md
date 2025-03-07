@@ -47,6 +47,38 @@ I am a Computer Science and Engineering (CSE) student with a strong passion for 
   </p>
 
 ---
+## 🛠️ **Tech Stack & Skills**  
+
+### 🚀 **Technical Skills**  
+![MS Office](https://img.shields.io/badge/-MS%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)  
+![Computer Proficiency](https://img.shields.io/badge/-Computer%20Proficiency-0078D4?style=flat&logo=windows&logoColor=white)  
+![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-1F70C1?style=flat&logo=tableau&logoColor=white)  
+
+### 📑 **Research & Writing**  
+![Research](https://img.shields.io/badge/-Research-FF6F00?style=flat&logo=google-scholar&logoColor=white)  
+![Document Writing](https://img.shields.io/badge/-Document%20Writing-02569B?style=flat&logo=microsoft-word&logoColor=white)  
+
+### 💡 **Soft Skills**  
+![Communication](https://img.shields.io/badge/-Communication-ff4081?style=flat&logo=wechat&logoColor=white)  
+![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-0A66C2?style=flat&logo=thinkpad&logoColor=white)  
+
+| **Programming Languages** | **Databases** | **Tools & Platforms** |
+|--------------------------|--------------|----------------------|
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) |
+| ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white) | ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) | ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) |
+| ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) |  |  |
+| ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) |  |  |
+| ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) |  |  |
+
+| **Software Development** | **ML & Computer Vision** | **Data Mining Algorithms** |
+|-------------------------|------------------------|--------------------------|
+| ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) | ![Apriori](https://img.shields.io/badge/-Apriori-006400?style=flat&logo=apache-spark&logoColor=white) |
+| ![Software Testing](https://img.shields.io/badge/-Software%20Testing-5A67D8?style=flat&logo=testing-library&logoColor=white) | ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) | ![K-Means](https://img.shields.io/badge/-K%20Means-00CED1?style=flat&logo=google&logoColor=white) |
+|  | ![MediaPipe](https://img.shields.io/badge/-MediaPipe-FF4500?style=flat&logo=google&logoColor=white) | ![Decision Tree](https://img.shields.io/badge/-Decision%20Tree-008000?style=flat&logo=scikitlearn&logoColor=white) |
+|  |  | ![Random Forest](https://img.shields.io/badge/-Random%20Forest-6A5ACD?style=flat&logo=scikitlearn&logoColor=white) |
+
+
+
 
 ## 🚀 **Tech Stack**  
 
