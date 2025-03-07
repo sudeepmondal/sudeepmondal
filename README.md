@@ -1,11 +1,11 @@
 <div align="center">
 <!-- Typing Animation at the Top -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=1&color=FF0000&center=true&vCenter=true&multiline=true&width=500&height=50&lines=Welcome+to+My+GitHub!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=1&color=FF0000&center=true&vCenter=true&multiline=true&width=500&height=50&lines=Welcome+to+My+GitHub+!+🥂" />
 </p>
 <!-- Another Typing Animation Below -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=50&lines=Hi+👋,+I'm+Sudeep+Mondal+Deep!;" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=50&lines=👋+Hi,+I'm+Sudeep+Mondal+Deep+!;" />
 </p>
   
 <table width="200%">
