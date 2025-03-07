@@ -49,18 +49,12 @@ I am a Computer Science and Engineering (CSE) student with a strong passion for 
 ---
 ## 🛠️ **Tech Stack & Skills**  
 
-### 🚀 **Technical Skills**  
-![MS Office](https://img.shields.io/badge/-MS%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)  
-![Computer Proficiency](https://img.shields.io/badge/-Computer%20Proficiency-0078D4?style=flat&logo=windows&logoColor=white)  
-![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-1F70C1?style=flat&logo=tableau&logoColor=white)  
+<div align="center">
 
-### 📑 **Research & Writing**  
-![Research](https://img.shields.io/badge/-Research-FF6F00?style=flat&logo=google-scholar&logoColor=white)  
-![Document Writing](https://img.shields.io/badge/-Document%20Writing-02569B?style=flat&logo=microsoft-word&logoColor=white)  
-
-### 💡 **Soft Skills**  
-![Communication](https://img.shields.io/badge/-Communication-ff4081?style=flat&logo=wechat&logoColor=white)  
-![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-0A66C2?style=flat&logo=thinkpad&logoColor=white)  
+| **Technical Skills** | **Research & Writing** | **Soft Skills** |
+|----------------------|----------------------|----------------|
+| ![MS Office](https://img.shields.io/badge/-MS%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white) | ![Research](https://img.shields.io/badge/-Research-FF6F00?style=flat&logo=google-scholar&logoColor=white) | ![Communication](https://img.shields.io/badge/-Communication-ff4081?style=flat&logo=wechat&logoColor=white) |
+| ![Computer Proficiency](https://img.shields.io/badge/-Computer%20Proficiency-0078D4?style=flat&logo=windows&logoColor=white) | ![Document Writing](https://img.shields.io/badge/-Document%20Writing-02569B?style=flat&logo=microsoft-word&logoColor=white) | ![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-0A66C2?style=flat&logo=thinkpad&logoColor=white) |
 
 | **Programming Languages** | **Databases** | **Tools & Platforms** |
 |--------------------------|--------------|----------------------|
@@ -77,6 +71,7 @@ I am a Computer Science and Engineering (CSE) student with a strong passion for 
 |  | ![MediaPipe](https://img.shields.io/badge/-MediaPipe-FF4500?style=flat&logo=google&logoColor=white) | ![Decision Tree](https://img.shields.io/badge/-Decision%20Tree-008000?style=flat&logo=scikitlearn&logoColor=white) |
 |  |  | ![Random Forest](https://img.shields.io/badge/-Random%20Forest-6A5ACD?style=flat&logo=scikitlearn&logoColor=white) |
 
+</div>
 
 
 
