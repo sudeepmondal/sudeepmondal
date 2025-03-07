@@ -12,17 +12,17 @@
   <!-- Left Side: Connect With Me -->
   <tr>
     <td align="center">
-      <h2>🤝 Connect With Me</h2>
-      <a href="https://www.facebook.com/sudeepmondaldeep/)">
-        <img src="https://img.shields.io/badge/-Facebook-0077B5?style=flat&logo=Facebook&logoColor=white" alt="Facebook">
-      </a>
-      <br>
+      <h2>🤝 Connect With Me</h2>    
       <a href="https://www.linkedin.com/in/smdeep/">
         <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
       </a>
       <br>
       <a href="mailto:smdeep137@gmail.com">
         <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
+      </a>
+      <br>
+      <a href="https://www.facebook.com/sudeepmondaldeep/)">
+        <img src="https://img.shields.io/badge/-Facebook-0077B5?style=flat&logo=Facebook&logoColor=white" alt="Facebook">
       </a>
     </td>
   <!-- Centered Contribution Snake -->
