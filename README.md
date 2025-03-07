@@ -10,7 +10,7 @@
   
 <table width="200%">
   <!-- Left Side: Connect With Me -->
-  <tr:hover {background-color: coral;}>
+  <tr>
     <td align="center">
       <h2>🤝 Connect With Me</h2>    
       <a href="https://www.linkedin.com/in/smdeep/">
@@ -26,7 +26,7 @@
       </a>
     </td>
   <!-- Centered Contribution Snake -->
-  <td align="center" colspan="1">
+  <td align="center" colspan="5">
     <h2>🐍 Contribution Snake </h2>
     <img src="https://github.com/sudeepmondal/sudeepmondal/blob/main/dist/github-contribution-grid-snake-dark.svg">
   </td>
@@ -65,6 +65,7 @@ I am a Computer Science and Engineering (CSE) student with a strong passion for 
     </tr>
   </table>
 </div>
+
 ---
 
 ### 🎉 **Thanks for Visiting ! Happy Coding ! 🚀**
