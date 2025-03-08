@@ -21,6 +21,10 @@
         <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
       </a>
       <br>
+      <a href="mailto:https://www.researchgate.net/profile/Sudeep-Mondal-Deep">
+        <img src="https://img.shields.io/badge/-Researchgate-D14836?style=flat&logo=researchgate&logoColor=white" alt="Researchgate">
+      </a>
+      <br>
       <a href="https://www.facebook.com/sudeepmondaldeep/">
         <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook">
       </a>
