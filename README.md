@@ -13,7 +13,7 @@
     <!-- Left Side: Connect With Me -->
     <td align="center" style="width: 33.33%; border-right: 2px solid #ffffff;">
       <h2>🤝 Connect With Me</h2>    
-      <a href="https://www.linkedin.com/in/smdeep/">
+      <a href="mailto:https://www.linkedin.com/in/smdeep/">
         <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
       </a>
       <br>
