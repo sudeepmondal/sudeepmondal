@@ -13,15 +13,15 @@
     <!-- Left Side: Connect With Me -->
     <td align="center" style="width: 33.33%; border-right: 2px solid #ffffff;">
       <h2>🤝 Connect With Me</h2>    
-      <a href="mailto:https://www.linkedin.com/in/smdeep/">
+      <a href="https://www.linkedin.com/in/smdeep/">
         <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
       </a>
       <br>
-      <a href="mailto:smdeep137@gmail.com">
+      <a href="smdeep137@gmail.com">
         <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
       </a>
       <br>
-      <a href="mailto:https://www.researchgate.net/profile/Sudeep-Mondal-Deep">
+      <a href="https://www.researchgate.net/profile/Sudeep-Mondal-Deep">
         <img src="https://img.shields.io/badge/-Researchgate-D14836?style=flat&logo=researchgate&logoColor=white" alt="Researchgate">
       </a>
       <br>
