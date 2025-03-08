@@ -8,10 +8,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=1500&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=50&lines=👋+Hi,+I'm+Sudeep+Mondal+Deep+!;" />
 </p>
   
-<table width="200%">
-  <!-- Left Side: Connect With Me -->
+<table width="100%" style="border-collapse: collapse;">
   <tr>
-    <td align="center">
+    <!-- Left Side: Connect With Me -->
+    <td align="center" style="width: 33.33%; border-right: 2px solid #ffffff;">
       <h2>🤝 Connect With Me</h2>    
       <a href="https://www.linkedin.com/in/smdeep/">
         <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -22,20 +22,20 @@
       </a>
       <br>
       <a href="https://www.facebook.com/sudeepmondaldeep/">
-        <img src="https://img.shields.io/badge/-Facebook-0077B5?style=flat&logo=Facebook&logoColor=white" alt="Facebook">
+        <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook">
       </a>
     </td>
-  <!-- Centered Contribution Snake -->
-  <td align="center" colspan="0">
-    <h2>🐍 Contribution Snake </h2>
-    <img src="https://github.com/sudeepmondal/sudeepmondal/blob/main/dist/github-contribution-grid-snake-dark.svg">
-  </td>
-  <!-- Right Side: Scan to Visit My Profile -->
-  <td align="center">
-    <h2>📱 Scan to Visit My Profile</h2>
-    <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/sudeepmondal" alt="QR Code" width="150">
-  </td>
-  </tr:hover {background-color: coral;}>
+    <!-- Center: Contribution Snake -->
+    <td align="center" style="width: 33.33%; border-right: 2px solid #ffffff;">
+      <h2>🐍 Contribution Snake</h2>
+      <img src="https://github.com/sudeepmondal/sudeepmondal/blob/main/dist/github-contribution-grid-snake-dark.svg">
+    </td>
+    <!-- Right Side: Scan to Visit My Profile -->
+    <td align="center" style="width: 33.33%;">
+      <h2>📱 Scan to Visit My Profile</h2>
+      <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/sudeepmondal" alt="QR Code" width="150">
+    </td>
+  </tr>
 </table>
 
 ---
