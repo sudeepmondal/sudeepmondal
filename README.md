@@ -28,6 +28,10 @@
       <a href="https://www.facebook.com/sudeepmondaldeep/">
         <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook">
       </a>
+      <br>
+      <a href="https://sites.google.com/view/sudeepmondaldeep/home">
+        <img src="https://img.shields.io/badge/-Google-D14836?style=flat&logo=google&logoColor=white" alt="Google">
+      </a>
     </td>
     <!-- Center: Contribution Snake -->
     <td align="center" style="width: 33.33%; border-right: 2px solid #ffffff;">
