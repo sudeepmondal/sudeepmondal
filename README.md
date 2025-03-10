@@ -41,7 +41,7 @@
     <!-- Right Side: Scan to Visit My Profile -->
     <td align="center" style="width: 33.33%;">
       <h2>📱 Scan to Visit My Profile</h2>
-      <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/sudeepmondal" alt="QR Code" width="150">
+      <img src="https://api.qrserver.com/v1/create-qr-code/?size=145x145&data=https://github.com/sudeepmondal" alt="QR Code" width="150">
     </td>
   </tr>
 </table>
