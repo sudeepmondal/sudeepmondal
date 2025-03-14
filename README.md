@@ -71,7 +71,9 @@ I am a Computer Science and Engineering (CSE) student with a strong passion for 
     </tr>
   </table>
 </div>
+
 ---
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&pause=100&color=FF0000&center=true&vCenter=true&width=600&height=50&lines=Good+artists+copy,+great+artists+steal+🥂" />
 </p>
