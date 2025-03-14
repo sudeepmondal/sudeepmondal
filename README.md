@@ -73,38 +73,11 @@ I am a Computer Science and Engineering (CSE) student with a strong passion for 
 </div>
 
 ---
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=1&color=FF0000&center=true&vCenter=true&multiline=true&width=500&height=50&lines= Good+artists+copy+,+great+artists+steal+🥂" />
-</p>
----
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&pause=100&color=FF0000&center=true&vCenter=true&width=600&height=50&lines=Good+artists+copy,+great+artists+steal+🥂" />
 </p>
-
-<style>
-  @keyframes blinkRGB {
-    0% { color: red; }
-    33% { color: green; }
-    66% { color: blue; }
-    100% { color: red; }
-  }
-
-  h2.blink {
-    font-size: 24px;
-    font-weight: bold;
-    text-align: center;
-    animation: blinkRGB 1s infinite;
-  }
-</style>
-
 <h2 class="blink">Good artists copy, great artists steal 🥂</h2>
 
-
 ### 🎉 **Thanks for Visiting ! Happy Coding ! 🚀**
-Good artists copy, great artists steal
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/blinking_text.gif" width="600">
-</p>
 
