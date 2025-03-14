@@ -1,11 +1,11 @@
 <div align="center">
 <!-- Typing Animation at the Top -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&pause=1&color=FF0000&center=true&vCenter=true&multiline=true&width=500&height=50&lines=Welcome+to+My+GitHub+!+🥂" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&pause=1&color=FF0000&center=true&vCenter=true&multiline=true&width=500&height=30&lines=Welcome+to+My+GitHub+!+🥂" />
 </p>
 <!-- Another Typing Animation Below -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&pause=100&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=50&lines=👋+Hi,+I'm+Sudeep+Mondal+Deep+!;" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&pause=100&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=30&lines=👋+Hi,+I'm+Sudeep+Mondal+Deep+!;" />
 </p>
   
 <table width="100%" style="border-collapse: collapse;">
@@ -74,7 +74,7 @@ I am a Computer Science and Engineering (CSE) student with a strong passion for 
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&pause=100&color=FF0000&center=true&vCenter=true&width=600&height=40&lines=Good+artists+copy,+great+artists+steal+🥂" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&pause=100&color=FF0000&center=true&vCenter=true&width=600&height=20&lines=Good+artists+copy,+great+artists+steal+🥂" />
 </p>
 
 ---
