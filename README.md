@@ -189,10 +189,9 @@ Currently, I am working as a **Jr. AI Engineer at Softvence Ltd.** and previousl
 
 ### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,r,cpp,cs,java,html,css,php,dart,mysql&theme=dark" alt="Programming Languages" />
+<img src="https://skillicons.dev/icons?i=python,r,cpp,cs,java,html,css,php,dart,mysql&theme=dark" alt="Programming Languages" /><br/>
 
 <br>
-
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
