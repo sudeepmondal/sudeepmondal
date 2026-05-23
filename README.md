@@ -127,9 +127,8 @@
   src="https://api.qrserver.com/v1/create-qr-code/?size=115x115&data=https://github.com/sudeepmondal" 
   alt="GitHub Profile QR Code" 
   width="115"
-/>
+/><br/>
 
-<br>
 
 <a href="https://github.com/sudeepmondal">
   <img src="https://img.shields.io/badge/Open%20GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" />
