@@ -279,6 +279,49 @@ Currently, I am working as a **Jr. AI Engineer at Softvence Ltd.** and previousl
 
 </div>
 
+---
+
+<a id="github-analytics"></a>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="50%">
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=sudeepmondal&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14&include_all_commits=true&count_private=true" 
+        alt="Sudeep Mondal Deep GitHub Stats" 
+      />
+    </td>
+    <td width="50%">
+      <img 
+        src="https://streak-stats.demolab.com?user=sudeepmondal&theme=tokyonight&hide_border=true&border_radius=14" 
+        alt="Sudeep Mondal Deep GitHub Streak" 
+      />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudeepmondal&layout=compact&theme=tokyonight&hide_border=true&border_radius=14" 
+  alt="Top Languages"
+/>
+
+<br><br>
+
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=sudeepmondal&theme=tokyo-night&hide_border=true&radius=14" 
+  width="96%" 
+  alt="Sudeep Mondal Deep GitHub Activity Graph" 
+/>
+
+</div>
+
+---
 
 ---
 
