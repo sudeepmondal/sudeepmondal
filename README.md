@@ -300,9 +300,8 @@ Currently, I am working as a **Jr. AI Engineer at Softvence Ltd.** and previousl
       />
     </td>
   </tr>
-</table>
+</table><br/>
 
-<br>
 
 <img 
   src="https://github-readme-stats-sudeep.vercel.app/api/top-langs/?username=sudeepmondal&layout=compact&theme=tokyonight&hide_border=true&border_radius=14&langs_count=8" 
