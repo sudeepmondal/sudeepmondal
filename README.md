@@ -306,9 +306,8 @@ Currently, I am working as a **Jr. AI Engineer at Softvence Ltd.** and previousl
 <img 
   src="https://github-readme-stats-sudeep.vercel.app/api/top-langs/?username=sudeepmondal&layout=compact&theme=tokyonight&hide_border=true&border_radius=14&langs_count=8" 
   alt="Top Languages"
-/>
+/><br/>
 
-<br>
 
 <img 
   src="https://github-readme-activity-graph.vercel.app/graph?username=sudeepmondal&theme=tokyo-night&hide_border=true&radius=14" 
