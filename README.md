@@ -291,7 +291,7 @@ Currently, I am working as a **Jr. AI Engineer at Softvence Ltd.** and previousl
   <tr>
     <td width="50%">
       <img 
-        src="https://github-readme-stats.vercel.app/api?username=sudeepmondal&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14&include_all_commits=true&count_private=true" 
+        src="https://github-readme-stats-sudeep.vercel.app/api?username=sudeepmondal&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14&include_all_commits=true&count_private=true" 
         alt="Sudeep Mondal Deep GitHub Stats" 
       />
     </td>
@@ -307,7 +307,7 @@ Currently, I am working as a **Jr. AI Engineer at Softvence Ltd.** and previousl
 <br>
 
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudeepmondal&layout=compact&theme=tokyonight&hide_border=true&border_radius=14" 
+  src="https://github-readme-stats-sudeep.vercel.app/api/top-langs/?username=sudeepmondal&layout=compact&theme=tokyonight&hide_border=true&border_radius=14&langs_count=8" 
   alt="Top Languages"
 />
 
@@ -320,8 +320,6 @@ Currently, I am working as a **Jr. AI Engineer at Softvence Ltd.** and previousl
 />
 
 </div>
-
----
 
 ---
 
