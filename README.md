@@ -213,7 +213,7 @@ Currently, I am working as a **Jr. AI Engineer at Softvence Ltd.** and previousl
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,flutter,selenium,fastapi,git,github,androidstudio,vscode,visualstudio,latex&theme=dark" alt="Frameworks and Tools" />
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
