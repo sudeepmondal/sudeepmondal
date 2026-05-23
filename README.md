@@ -193,7 +193,7 @@ Currently, I am working as a **Jr. AI Engineer at Softvence Ltd.** and previousl
 
 <br>
 
-<img width="1" height="6" />
+<img width="1" height="26" />
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
