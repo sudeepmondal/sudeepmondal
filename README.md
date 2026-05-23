@@ -17,7 +17,7 @@
     alt="Typing Animation"
   />
 
-  <br><br>
+  <br>
 
   <a href="https://komarev.com/ghpvc/?username=sudeepmondal">
     <img src="https://komarev.com/ghpvc/?username=sudeepmondal&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
