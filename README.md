@@ -78,9 +78,6 @@
 </div>
 
 ---
----
-
-<a id="profile-dashboard"></a>
 
 ## 🧭 Profile Dashboard
 
@@ -93,15 +90,12 @@
 <a href="mailto:smdeep137@gmail.com">
   <img src="https://img.shields.io/badge/Email-smdeep137%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
 </a>
-<br>
 <a href="https://www.linkedin.com/in/smdeep/">
   <img src="https://img.shields.io/badge/LinkedIn-Sudeep%20Mondal%20Deep-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
-<br>
 <a href="https://github.com/sudeepmondal">
   <img src="https://img.shields.io/badge/GitHub-sudeepmondal-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
-<br>
 <a href="https://sudeepmondaldeep.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-Visit-FF6F00?style=flat-square&logo=vercel&logoColor=white" />
 </a>
@@ -114,15 +108,12 @@
 <a href="https://www.researchgate.net/profile/Sudeep-Mondal-Deep">
   <img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=flat-square&logo=researchgate&logoColor=white" />
 </a>
-<br>
 <a href="https://scholar.google.com/citations?user=8HKoK-0AAAAJ&hl=en">
   <img src="https://img.shields.io/badge/Google%20Scholar-Citations-4285F4?style=flat-square&logo=googlescholar&logoColor=white" />
 </a>
-<br>
 <a href="https://www.kaggle.com/sudeepmondaldeep">
   <img src="https://img.shields.io/badge/Kaggle-sudeepmondaldeep-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
 </a>
-<br>
 <a href="https://www.facebook.com/sudeepmondaldeep/">
   <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=flat-square&logo=facebook&logoColor=white" />
 </a>
@@ -138,7 +129,7 @@
   width="115"
 />
 
-<br><br>
+<br>
 
 <a href="https://github.com/sudeepmondal">
   <img src="https://img.shields.io/badge/Open%20GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" />
