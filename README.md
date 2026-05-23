@@ -328,7 +328,7 @@ Currently, I am working as a **Jr. AI Engineer at Softvence Ltd.** and previousl
 <div align="center">
 
 <img 
-  src="https://github-profile-trophy.vercel.app/?username=sudeepmondal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=9&margin-h=10" 
+  src="https://github-profile-trophy.vercel.app/?username=sudeepmondal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&margin-h=10" 
   alt="GitHub Profile Trophies" 
 />
 
