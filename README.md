@@ -317,8 +317,7 @@ Currently, I am working as a **Jr. AI Engineer at Softvence Ltd.** and previousl
   alt="Good artists copy, great artists steal quote"
 />
 
-<br>
-
+<!-- <br> -->
 
 ---
 
