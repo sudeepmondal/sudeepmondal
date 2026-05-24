@@ -286,28 +286,31 @@ Currently, I am working as a **Jr. AI Engineer at Softvence Ltd.** and previousl
   <tr>
     <td width="50%">
       <img 
-        src="https://github-readme-stats-sudeep.vercel.app/api?username=sudeepmondal&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14&include_all_commits=true&count_private=true" 
+        src="https://github-readme-stats-sudeep.vercel.app/api?username=sudeepmondal&show_icons=true&hide_border=false&border_radius=16&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&icon_color=34D399&border_color=30363D" 
         alt="Sudeep Mondal Deep GitHub Stats" 
       />
     </td>
     <td width="50%">
       <img 
-        src="https://streak-stats.demolab.com?user=sudeepmondal&theme=tokyonight&hide_border=true&border_radius=14" 
+        src="https://streak-stats.demolab.com?user=sudeepmondal&hide_border=false&border_radius=16&background=0D1117&ring=22D3EE&fire=34D399&currStreakNum=FFFFFF&sideNums=22D3EE&currStreakLabel=34D399&sideLabels=C9D1D9&dates=8B949E&stroke=30363D&border=30363D" 
         alt="Sudeep Mondal Deep GitHub Streak" 
       />
     </td>
   </tr>
-</table><br/>
+</table>
 
-
-<img 
-  src="https://github-readme-stats-sudeep.vercel.app/api/top-langs/?username=sudeepmondal&layout=compact&theme=tokyonight&hide_border=true&border_radius=14&langs_count=8" 
-  alt="Top Languages"
-/><br/>
-
+<br/>
 
 <img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=sudeepmondal&theme=tokyo-night&hide_border=true&radius=14" 
+  src="https://github-readme-stats-sudeep.vercel.app/api/top-langs/?username=sudeepmondal&layout=compact&hide_border=false&border_radius=16&langs_count=8&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&border_color=30363D" 
+  alt="Sudeep Mondal Deep Top Languages"
+/>
+
+<br/>
+<br/>
+
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=sudeepmondal&bg_color=0D1117&color=C9D1D9&line=22D3EE&point=34D399&area=true&area_color=22D3EE&title_color=22D3EE&hide_border=false&radius=16" 
   width="96%" 
   alt="Sudeep Mondal Deep GitHub Activity Graph" 
 />
@@ -321,9 +324,9 @@ Currently, I am working as a **Jr. AI Engineer at Softvence Ltd.** and previousl
 <div align="center">
 
 <img 
-  src="https://github-profile-trophy.vercel.app/?username=sudeepmondal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=-1" 
+  src="https://github-profile-trophy.vercel.app/?username=sudeepmondal&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=-1" 
   width="100%"
-  alt="GitHub Profile Trophies" 
+  alt="Sudeep Mondal Deep GitHub Profile Trophies" 
 />
 
 </div>
