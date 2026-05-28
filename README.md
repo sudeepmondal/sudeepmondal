@@ -1,6 +1,6 @@
 <!--
   GitHub Profile README 
-  Author: Sudeep Mondal Deep 
+  Author: Sudeep Mondal Deep  
   Professional, animated, visitor-friendly profile README. 
 -->
 
@@ -324,9 +324,9 @@ Currently, I am working as a **Jr. AI Engineer at Softvence Ltd.** and previousl
 <div align="center">
 
 <img 
-  src="https://github-profile-trophy.vercel.app/?username=sudeepmondal&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=-1" 
+  src="https://github-profile-trophy-liard-delta.vercel.app/?username=sudeepmondal&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=-1" 
   width="100%"
-  alt="Sudeep Mondal Deep GitHub Profile Trophies" 
+  alt="Sudeep Mondal GitHub Profile Trophies" 
 />
 
 </div>
