@@ -1,6 +1,6 @@
 <!--
   GitHub Profile README 
-  Author: Sudeep Mondal Deep  
+  Author: Sudeep Mondal Deep     
   Professional, animated, visitor-friendly profile README. 
 -->
 
